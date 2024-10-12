@@ -1,6 +1,0 @@
-voila
-pandas
-plotly
-ipywidgets
-requests
-beautifulsoup4
